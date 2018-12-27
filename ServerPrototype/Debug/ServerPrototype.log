@@ -1,0 +1,7 @@
+﻿  ServerPrototype.cpp
+XmlDocument.lib(Tokenizer.obj) : warning LNK4099: PDB 'XmlDocument.pdb' was not found with 'XmlDocument.lib(Tokenizer.obj)' or at 'C:\Users\Sharath Nagendra\Desktop\Project 4\Project 4\Debug\XmlDocument.pdb'; linking object as if no debug info
+XmlDocument.lib(xmlElementParts.obj) : warning LNK4099: PDB 'XmlDocument.pdb' was not found with 'XmlDocument.lib(xmlElementParts.obj)' or at 'C:\Users\Sharath Nagendra\Desktop\Project 4\Project 4\Debug\XmlDocument.pdb'; linking object as if no debug info
+XmlDocument.lib(XmlElement.obj) : warning LNK4099: PDB 'XmlDocument.pdb' was not found with 'XmlDocument.lib(XmlElement.obj)' or at 'C:\Users\Sharath Nagendra\Desktop\Project 4\Project 4\Debug\XmlDocument.pdb'; linking object as if no debug info
+XmlDocument.lib(XmlParser.obj) : warning LNK4099: PDB 'XmlDocument.pdb' was not found with 'XmlDocument.lib(XmlParser.obj)' or at 'C:\Users\Sharath Nagendra\Desktop\Project 4\Project 4\Debug\XmlDocument.pdb'; linking object as if no debug info
+XmlDocument.lib(XmlDocument.obj) : warning LNK4099: PDB 'XmlDocument.pdb' was not found with 'XmlDocument.lib(XmlDocument.obj)' or at 'C:\Users\Sharath Nagendra\Desktop\Project 4\Project 4\Debug\XmlDocument.pdb'; linking object as if no debug info
+  ServerPrototype.vcxproj -> C:\Users\Sharath Nagendra\Desktop\Project 4\Project 4\Debug\ServerPrototype.exe
